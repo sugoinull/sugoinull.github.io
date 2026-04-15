@@ -2,4 +2,4 @@
 
 URL para adicionar no app:
 
-https://repo.sugoinull.space/index.min.json
+https://sugoinull.github.io/index.min.json
