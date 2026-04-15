@@ -36,10 +36,10 @@
   {
     "name": "Aniyomi: MissAV - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.missavws",
-    "apk": "aniyomi-pt.missavws-v14.3.apk",
+    "apk": "aniyomi-pt.missavws-v14.4.apk",
     "lang": "pt",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
