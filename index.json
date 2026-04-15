@@ -316,10 +316,10 @@
   {
     "name": "Tachiyomi: nHentai - SugoiNull",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentaiupdated",
-    "apk": "tachiyomi-all.nhentaiupdated-v1.4.5.apk",
+    "apk": "tachiyomi-all.nhentaiupdated-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
@@ -396,10 +396,10 @@
   {
     "name": "Tachiyomi: nHentai - SugoiNull - Inglês",
     "pkg": "eu.kanade.tachiyomi.extension.en.nhentaiupdateden",
-    "apk": "tachiyomi-en.nhentaiupdateden-v1.4.1.apk",
+    "apk": "tachiyomi-en.nhentaiupdateden-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
